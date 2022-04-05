@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import org.apache.commons.pool.BasePoolableObjectFactory;
@@ -14,4 +15,7 @@ public class ChannelFactory extends BasePoolableObjectFactory<Channel> {
     return this.connection.createChannel();
   }
 
+=======
+package PACKAGE_NAME;public class ChannelFactory {
+>>>>>>> ba1c6383e472866456e239b25554e55fb9357ffc
 }

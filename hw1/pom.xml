@@ -10,12 +10,15 @@
 
   <dependencies>
 
+<<<<<<< HEAD
     <dependency>
       <groupId>com.rabbitmq</groupId>
       <artifactId>amqp-client</artifactId>
       <version>5.14.2</version>
     </dependency>
 
+=======
+>>>>>>> ba1c6383e472866456e239b25554e55fb9357ffc
     <dependency>
       <groupId>javax.xml.bind</groupId>
       <artifactId>jaxb-api</artifactId>

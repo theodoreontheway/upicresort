@@ -9,10 +9,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/hw1/web" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/hw1/src/main/java" />
-          <root url="file://$MODULE_DIR$/hw1/src/main/resources" />
-        </sourceRoots>
       </configuration>
     </facet>
     <facet type="web" name="Web3">
@@ -23,7 +19,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/out/artifacts/upicresort_war_exploded" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web2">
@@ -34,10 +29,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/hw1/out/artifacts/lab2_war_exploded" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/hw1/src/main/java" />
-          <root url="file://$MODULE_DIR$/hw1/src/main/resources" />
-        </sourceRoots>
       </configuration>
     </facet>
   </component>

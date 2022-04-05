@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-client-generated" />
         <module name="upicresort" />
+        <module name="swagger-java-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cs6650-lab" target="11" />
-      <module name="swagger-java-client" target="1.7" />
+      <module name="java-client-generated" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
